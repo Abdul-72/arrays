@@ -1,0 +1,1 @@
+legal number is that if we divide a number or a multiply it with string then it shoes aas that its not a legal number 
